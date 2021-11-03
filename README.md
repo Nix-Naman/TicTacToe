@@ -1,6 +1,6 @@
 # xoxo
 
-A new Flutter project.
+TicTacToe game built with flutter.
 
 ## Getting Started
 
